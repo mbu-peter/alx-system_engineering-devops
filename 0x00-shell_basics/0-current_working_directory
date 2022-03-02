@@ -1,2 +1,2 @@
 #!/bin/bash
-to print absolute path, use pwd
+pwd
