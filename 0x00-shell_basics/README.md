@@ -1,2 +1,2 @@
 #!/bin/bash
-the absolute path
+This is a shell basics course
