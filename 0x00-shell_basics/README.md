@@ -1,2 +1,3 @@
 #!/bin/bash
-pwd
+print absolute path
+echo prints absolute path
