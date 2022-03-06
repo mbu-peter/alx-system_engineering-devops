@@ -1,2 +1,2 @@
 #!/bin/bash
-This is a shell basics course
+echo "This is a shell basics course"
